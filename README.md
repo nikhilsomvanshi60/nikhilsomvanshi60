@@ -442,11 +442,15 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@nikhilsomvanshi60-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsomvanshi60)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_@nikhilsomvanshi60-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsomvanshi60)
 &ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Somvanshi-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-somvanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-somvanshi-09a303367?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 &ensp;
-![](https://img.shields.io/badge/DM_OPEN-Let's_Build_Together-00BCD4?style=for-the-badge&logo=telegram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikhil_somvanshi_60?igsh=cnkydHFzM3V1NXpr)
+&ensp;
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-Follow-00e5ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XprRed90483)
+&ensp;
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KINGMANS12)
 
 <br/><br/>
 
