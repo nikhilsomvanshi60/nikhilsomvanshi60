@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║       NIK AI CORE  ✦  PROFILE ENGINE v1.0              ║ -->
-<!-- ║         Custom HUD  ·  Dashboard Layout                 ║ -->
+<!-- ║        NIK AI CORE  ✦  PROFILE ENGINE v1.0               ║ -->
+<!-- ║          Custom HUD  ·  Dashboard Layout                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░░░░░░░  CUSTOM ANIMATED SVG HUD BANNER  ░░░░░░░░░ -->
@@ -44,17 +44,17 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║  DESIGNATION : NIKHIL SOMVANSHI         ║
-║  CODENAME    : NIK                      ║
-║              : [Neural Intel Kernel]    ║
-║  DIVISION    : NIK AI TECHNOLOGY        ║
-║  ROLE        : AI Engineer + Cyber      ║
-║                Security Analyst         ║
-║  CITY        : Vadodara, Gujarat, India ║
-║  PASSION     : AI  ×  Security  ×  Art  ║
-║  PHILOSOPHY  : Build AI. Secure Systems.║
-║                Write Code. Tell Stories.║
-║  STATUS      : ● ACTIVE | ◈ BUILDING   ║
+║  DESIGNATION : NIKHIL SOMVANSHI          ║
+║  CODENAME    : NIK                       ║
+║              : [Neural Intel Kernel]     ║
+║  DIVISION    : NIK AI TECHNOLOGY         ║
+║  ROLE        : AI Engineer + Cyber       ║
+║                Security Analyst          ║
+║  CITY        : Vadodara, Gujarat, India  ║
+║  PASSION     : AI  ×  Security  ×  Art   ║
+║  PHILOSOPHY  : Build AI. Secure Systems. ║
+║                Write Code. Tell Stories. ║
+║  STATUS      : ● ACTIVE | ◈ BUILDING     ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -94,8 +94,8 @@
 
 ```python
 # ╔══════════════════════════════════════════════════════════════╗
-# ║         NIK AI ASSISTANT  ·  Neural Intelligence Kernel     ║
-# ║         Version  :  6.0.DASHBOARD.ULTRA                     ║
+# ║         NIK AI ASSISTANT  ·  Neural Intelligence Kernel      ║
+# ║         Version  :  6.0.DASHBOARD.ULTRA                      ║
 # ╚══════════════════════════════════════════════════════════════╝
 
 class NIK_AI_ASSISTANT:
@@ -104,7 +104,7 @@ class NIK_AI_ASSISTANT:
         "full_name" : "Nikhil Somvanshi",
         "codename"  : "NIK  —  Neural Intelligence Kernel",
         "division"  : "NIK AI TECHNOLOGY",
-        "version"   : "6.0  ·  DASHBOARD.ULTRA",
+        "version"   : "1.0  ·  DASHBOARD.ULTRA",
         "origin"    : "Vadodara, Gujarat, India  🇮🇳",
         "motto"     : "From curiosity to code. From code to change.",
     }
@@ -187,16 +187,16 @@ class NIK_AI_ASSISTANT:
 <div align="center">
 
 ```
-  ╔════════════════════════════════════════════════════════════╗
-  ║          ✦   N I K   S E C U R I T Y   M A T R I X   ✦   ║
-  ╠══════════════════════════╦═════════════════════════════════╣
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║          ✦   N I K   S E C U R I T Y   M A T R I X   ✦              ║
+  ╠══════════════════════════╦═══════════════════════════════════════════╣
   ║  Penetration Testing     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%    🔴   ║
   ║  Network Security        ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%    🔵   ║
   ║  Web App Security        ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  79%    🔵   ║
   ║  OSINT & Recon           ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  86%    🟣   ║
   ║  Security Automation     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  92%    ⚡   ║
   ║  Threat Intelligence     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%    🟣   ║
-  ╚══════════════════════════╩═════════════════════════════════╝
+  ╚══════════════════════════╩═══════════════════════════════════════════╝
 ```
 
 </div>
@@ -391,16 +391,16 @@ class NIK_AI_ASSISTANT:
 <br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║              ✦   N I K   G R O W T H   L O G   ✦           ║
-  ╠═══════════════════════════╦══════════════════════════════════╣
-  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  95%  🔮     ║
-  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  84%  🤖     ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  83%  ⚡     ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚     ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️    ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠     ║
-  ╚═══════════════════════════╩══════════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════════════════╗
+  ║              ✦   N I K   G R O W T H   L O G   ✦                      ║
+  ╠═══════════════════════════╦════════════════════════════════════════════╣
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  95%  🔮      ║
+  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  84%  🤖      ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  83%  ⚡      ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚      ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️      ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠      ║
+  ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 
 </div>
