@@ -86,7 +86,7 @@
 
 ## 🔮 &nbsp; NIK AI ASSISTANT — CORE INTELLIGENCE &nbsp; 🔮
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=12.5&duration=1600&pause=250&color=A78BFA&center=true&vCenter=true&width=740&lines=%3E_+BOOTING+NIK+AI+CORE+v6.0...;%3E_+Language+Model+Bridge...+[CONNECTED];%3E_+Prompt+Architecture+Engine...+[LOADED];%3E_+Cybersecurity+Modules...+[ARMED];%3E_+Autonomous+Agent+Runtime...+[READY];%3E_+Welcome+back%2C+NIKHIL.+All+systems+nominal." alt="Boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=40&duration=1800&pause=400&color=A78BFA&center=true&vCenter=true&width=760&lines=%3E_%20BOOTING%20NIK%20AI%20CORE%20v6.0...;%3E_%20Language%20Model%20Bridge...%20%5BCONNECTED%5D;%3E_%20Prompt%20Architecture%20Engine...%20%5BLOADED%5D;%3E_%20Cybersecurity%20Modules...%20%5BARMED%5D;%3E_%20Autonomous%20Agent%20Runtime...%20%5BREADY%5D;%3E_%20Welcome%20back%2C%20NIKHIL.%20All%20systems%20nominal." alt="NIK AI Boot Sequence"/>
 
 </div>
 
