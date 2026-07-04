@@ -20,6 +20,14 @@
 <img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
 </a>
 &ensp;
+<a href="https://www.instagram.com/nikhil_somvanshi_60?igsh=cnkydHFzM3V1NXpr">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&ensp;
+<a href="https://youtube.com/@nikhil001-p?si=rWStJq8GDiC_ilSC">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+&ensp;
 <img src="https://img.shields.io/badge/NIK_AI-v6.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
 &ensp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20%E2%9A%A1-00ff88?style=for-the-badge"/>
@@ -127,7 +135,7 @@ class NIK_AI_ASSISTANT:
         return "✦  NIK AI — Where technology meets soul.  ✦"
 
     def __repr__(self) -> str:
-        return f"NIK v6.0 | {self.identity['origin']} | ONLINE"
+        return f"NIK v1.0 | {self.identity['origin']} | ONLINE"
 ```
 
 <br/>
@@ -451,6 +459,8 @@ class NIK_AI_ASSISTANT:
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-Follow-00e5ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XprRed90483)
 &ensp;
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KINGMANS12)
+&ensp;
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nikhil001-p?si=rWStJq8GDiC_ilSC)
 
 <br/><br/>
 
