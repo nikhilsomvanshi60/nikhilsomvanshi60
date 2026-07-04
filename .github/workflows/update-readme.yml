@@ -1,0 +1,44 @@
+# STARK INDUSTRIES // AUTOMATED GITHUB PROFILE REFRESHER
+# Updates stats, projects, and telemetry daily without manual action.
+
+name: "Jarvis Core Update"
+
+on:
+  schedule:
+    # Runs every 24 hours (at midnight UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from Github UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-node-version: 18
+
+      - name: Install Dependencies
+        run: |
+          # If package.json exists, install dependencies; otherwise skip
+          if [ -f package.json ]; then npm install; fi
+
+      - name: Execute Jarvis Sync Protocol
+        run: node github-assets/update-profile.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push Remote Telemetry
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if README has changed
+          git diff-index --quiet HEAD || git commit -m "system: auto-refresh telemetry matrix [skip ci]"
+          git push origin main
