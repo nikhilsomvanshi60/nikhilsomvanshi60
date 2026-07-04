@@ -20,14 +20,6 @@
 <img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
 </a>
 &ensp;
-<a href="https://www.instagram.com/nikhil_somvanshi_60?igsh=cnkydHFzM3V1NXpr">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&ensp;
-<a href="https://youtube.com/@nikhil001-p?si=rWStJq8GDiC_ilSC">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-&ensp;
 <img src="https://img.shields.io/badge/NIK_AI-v6.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
 &ensp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20%E2%9A%A1-00ff88?style=for-the-badge"/>
@@ -48,12 +40,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### `◈ AGENT DOSSIER — N1K`
+### `◈ AGENT DOSSIER — NIK`
 
 ```
 ╔══════════════════════════════════════════╗
 ║  DESIGNATION : NIKHIL SOMVANSHI         ║
-║  CODENAME    : N1K                      ║
+║  CODENAME    : NIK                      ║
 ║              : [Neural Intel Kernel]    ║
 ║  DIVISION    : NIK AI TECHNOLOGY        ║
 ║  ROLE        : AI Engineer + Cyber      ║
@@ -110,7 +102,7 @@ class NIK_AI_ASSISTANT:
 
     identity = {
         "full_name" : "Nikhil Somvanshi",
-        "codename"  : "N1K  —  Neural Intelligence Kernel",
+        "codename"  : "NIK  —  Neural Intelligence Kernel",
         "division"  : "NIK AI TECHNOLOGY",
         "version"   : "6.0  ·  DASHBOARD.ULTRA",
         "origin"    : "Vadodara, Gujarat, India  🇮🇳",
