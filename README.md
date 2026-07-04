@@ -339,7 +339,7 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -373,7 +373,18 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%23e2e8f0&qColor=%23FF6B9D&aColor=%23A78BFA&borderColor=%230D1117&hideBorder=true" alt="Dev Joke" width="600"/>
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&textColor=%23d4b4fe&qColor=%23FF6B9D&aColor=%23A78BFA&borderColor=%231a0a2e" alt="Dev Joke" width="680"/>
+
+<br/>
+
+```js
+// NIK AI :: DAILY DEBUG LOG
+console.log("Why do programmers prefer dark mode?");
+console.log("→ Because light attracts bugs! 🐛");
+console.log("");
+console.log("NIK AI Tip: Every great codebase starts with");
+console.log("          a single commit and a lot of chai ☕");
+```
 
 </div>
 
@@ -395,12 +406,12 @@ class NIK_AI_ASSISTANT:
   ╔════════════════════════════════════════════════════════════════════════╗
   ║              ✦   N I K   G R O W T H   L O G   ✦                      ║
   ╠═══════════════════════════╦════════════════════════════════════════════╣
-  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  95%  🔮                  ║
-  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️                  ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  79%  🧠                  ║
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  95%  🔮      ║
+  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖      ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡      ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚      ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️      ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  79%  🧠      ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 <!-- NIK_GROWTH_LOG_END -->
@@ -420,7 +431,7 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=14&duration=4500&pause=2000&color=D4B4FE&center=true&vCenter=true&width=800&lines=%22I+write+code+at+midnight+when+the+world+is+quiet...%22;%22Every+function+is+a+letter.+Every+bug%2C+a+lesson.%22;%22The+best+firewall+is+knowledge.+The+best+AI%2C+curiosity.%22;%22Build+AI+that+feels+human.+Secure+futures%2C+not+just+systems.%22;%22One+commit+at+a+time+—+writing+tomorrow+into+existence.%22" alt="Philosophy"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=15&duration=4500&pause=2000&color=D4B4FE&center=true&vCenter=true&width=820&height=50&lines=%22I+write+code+at+midnight+when+the+world+is+quiet...%22;%22Every+function+is+a+letter.+Every+bug%2C+a+lesson.%22;%22The+best+firewall+is+knowledge.+Best+AI%3F+Curiosity.%22;%22Build+AI+that+feels+human.+Secure+futures%2C+not+just+code.%22;%22One+commit+at+a+time+--+writing+tomorrow+into+existence.%22" alt="NIK Philosophy"/>
 
 <br/><br/>
 
