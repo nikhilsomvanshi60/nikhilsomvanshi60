@@ -316,13 +316,13 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A78BFA&text_color=E2E8F0&ring_color=FF6B9D&border_radius=12" height="185" alt="Stats"/>
+<img src="https://github-readme-stats.demolab.com/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A78BFA&text_color=E2E8F0&ring_color=FF6B9D&border_radius=12&cache_seconds=1800" height="185" alt="GitHub Stats"/>
 &ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=E2E8F0&border_radius=12&langs_count=6" height="185" alt="Languages"/>
+<img src="https://github-readme-stats.demolab.com/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=E2E8F0&border_radius=12&langs_count=6&cache_seconds=1800" height="185" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=A78BFA&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B9D&sideLabels=A78BFA&dates=888888&border_radius=12" width="97%" alt="Streak"/>
+<img src="https://streak-stats.demolab.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=A78BFA&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B9D&sideLabels=A78BFA&dates=888888&border_radius=12" width="97%" alt="GitHub Streak"/>
 
 </div>
 
