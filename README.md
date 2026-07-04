@@ -40,17 +40,17 @@
 
 ### `⟨ AGENT DOSSIER ⟩`
 
-```yaml
-╔══════════════════════════════════════════════╗
-║   DESIGNATION  :  NIKHIL SOMVANSHI           ║
-║   CODENAME     :  N1K  ⟨ Neural Intel Kernel ⟩║
-║   DIVISION     :  NIK AI TECHNOLOGY          ║
-║   SPECIALITY   :  AI × Cybersecurity × Automation
-║   CITY         :  Vadodara, Gujarat, India   ║
-║   PHILOSOPHY   :  Build AI. Secure Systems.  ║
-║                   Write Code that Tells Stories.
-║   STATUS       :  ● ACTIVE  |  ◈  BUILDING  ║
-╚══════════════════════════════════════════════╝
+```
+╔══════════════════════════════════════════════════════╗
+║  DESIGNATION  :  NIKHIL SOMVANSHI                   ║
+║  CODENAME     :  N1K  [ Neural Intelligence Kernel ] ║
+║  DIVISION     :  NIK AI TECHNOLOGY                  ║
+║  SPECIALITY   :  AI  +  Cybersecurity  +  Automation ║
+║  CITY         :  Vadodara, Gujarat, India            ║
+║  PHILOSOPHY   :  Build AI.  Secure Systems.          ║
+║                  Write Code that Tells Stories.      ║
+║  STATUS       :  ● ACTIVE   |   ◈  BUILDING         ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
