@@ -17,7 +17,7 @@
 
 <!-- BADGE ROW -->
 <a href="https://github.com/nikhilsomvanshi60">
-<img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60-views&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
 </a>
 &ensp;
 <img src="https://img.shields.io/badge/NIK_AI-v1.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
