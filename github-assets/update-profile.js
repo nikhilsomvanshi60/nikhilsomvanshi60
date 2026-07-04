@@ -98,6 +98,67 @@ function updatePlaceholder(content, startMarker, endMarker, replacement) {
     return `${before}\n${replacement}\n${after}`;
 }
 
+function buildGrowthLog(repos) {
+    const pythonCount = repos.filter(r => (r.language || '').toLowerCase() === 'python').length;
+    const jsCount = repos.filter(r => (r.language || '').toLowerCase() === 'javascript').length;
+    
+    const aiKeywords = ['companion', 'agent', 'ai', 'llm', 'prompt', 'gpt', 'gemini'];
+    const aiCount = repos.filter(r => 
+        aiKeywords.some(kw => (r.name || '').toLowerCase().includes(kw)) ||
+        aiKeywords.some(kw => (r.description || '').toLowerCase().includes(kw))
+    ).length;
+
+    const securityKeywords = ['security', 'cyber', 'pentest', 'hack', 'report', 'exploit', 'defense'];
+    const securityCount = repos.filter(r => 
+        securityKeywords.some(kw => (r.name || '').toLowerCase().includes(kw)) ||
+        securityKeywords.some(kw => (r.description || '').toLowerCase().includes(kw))
+    ).length;
+
+    // Base values + repository count influence
+    // Fluctuations are +/- 1.5% to simulate live activity
+    const fluctuate = () => Math.round((Math.random() * 3 - 1.5) * 10) / 10;
+    
+    const skills = [
+        { label: "Prompt Engineering",     base: 94, weight: 1.5, multiplier: aiCount,       emoji: "🔮" },
+        { label: "AI Agent Development",   base: 82, weight: 1.2, multiplier: aiCount,       emoji: "🤖" },
+        { label: "Security Automation",    base: 81, weight: 1.5, multiplier: securityCount, emoji: "⚡" },
+        { label: "New Skills — Daily",     base: 86, weight: 0.8, multiplier: repos.length,  emoji: "📚" },
+        { label: "Cybersecurity Research", base: 72, weight: 2.0, multiplier: securityCount, emoji: "🛡️" },
+        { label: "LLM Fine-Tuning",        base: 78, weight: 1.5, multiplier: aiCount,       emoji: "🧠" }
+    ];
+
+    const lines = [
+        "```",
+        "  ╔════════════════════════════════════════════════════════════════════════╗",
+        "  ║              ✦   N I K   G R O W T H   L O G   ✦                      ║",
+        "  ╠═══════════════════════════╦════════════════════════════════════════════╣"
+    ];
+
+    skills.forEach(skill => {
+        let percentage = Math.round(skill.base + (skill.weight * skill.multiplier) + fluctuate());
+        if (percentage > 98) percentage = 98;
+        if (percentage < 50) percentage = 50;
+
+        const barLength = 15;
+        const filledCount = Math.round((percentage / 100) * barLength);
+        const emptyCount = barLength - filledCount;
+        const bar = '▰'.repeat(filledCount) + '▱'.repeat(emptyCount);
+
+        const paddedLabel = skill.label.padEnd(25, ' ');
+        const pctStr = `${percentage}%`.padStart(3, ' ');
+        
+        // Construct the right column content with exactly 18 spaces of trailing padding
+        // This ensures pixel-perfect visual alignment in Markdown renderers
+        const paddedRight = `  ${bar}  ${pctStr}  ${skill.emoji}                  `;
+
+        lines.push(`  ║  ${paddedLabel}║${paddedRight}║`);
+    });
+
+    lines.push("  ╚═══════════════════════════╩════════════════════════════════════════════╝");
+    lines.push("```");
+    return lines.join('\n');
+}
+
 async function run() {
     try {
         if (!fs.existsSync(README_PATH)) {
@@ -137,6 +198,15 @@ async function run() {
             "<!-- QUOTE_START -->", 
             "<!-- QUOTE_END -->", 
             quoteMarkdown
+        );
+
+        // Build and update Growth Log
+        const growthLogMarkdown = buildGrowthLog(repos);
+        updatedContent = updatePlaceholder(
+            updatedContent,
+            "<!-- NIK_GROWTH_LOG_START -->",
+            "<!-- NIK_GROWTH_LOG_END -->",
+            growthLogMarkdown
         );
 
         // Update timestamps/logs inside the file
