@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210">
+  <defs>
+    <linearGradient id="bg-g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#040411"/>
+      <stop offset="50%"  stop-color="#0d0821"/>
+      <stop offset="100%" stop-color="#040411"/>
+    </linearGradient>
+    <linearGradient id="title-g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00e5ff"/>
+      <stop offset="42%"  stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#ff6b9d"/>
+    </linearGradient>
+    <linearGradient id="border-g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#00e5ff"/>
+      <stop offset="70%"  stop-color="#ff6b9d"/>
+      <stop offset="100%" stop-color="#ff6b9d" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow-sm">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-lg">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ── BACKGROUND ─────────────────────────────── -->
+  <rect width="900" height="210" fill="url(#bg-g)"/>
+
+  <!-- ── GRID (very faint) ──────────────────────── -->
+  <g opacity="0.055" stroke="#7c6fff" stroke-width="0.8">
+    <line x1="0"   y1="42"  x2="900" y2="42"/>
+    <line x1="0"   y1="84"  x2="900" y2="84"/>
+    <line x1="0"   y1="126" x2="900" y2="126"/>
+    <line x1="0"   y1="168" x2="900" y2="168"/>
+    <line x1="112" y1="0"   x2="112" y2="210"/>
+    <line x1="225" y1="0"   x2="225" y2="210"/>
+    <line x1="337" y1="0"   x2="337" y2="210"/>
+    <line x1="450" y1="0"   x2="450" y2="210"/>
+    <line x1="562" y1="0"   x2="562" y2="210"/>
+    <line x1="675" y1="0"   x2="675" y2="210"/>
+    <line x1="787" y1="0"   x2="787" y2="210"/>
+  </g>
+
+  <!-- ── TOP BORDER LINE ────────────────────────── -->
+  <rect x="55" y="14" width="790" height="1.2" fill="url(#border-g)" opacity="0.8"/>
+
+  <!-- ── BOTTOM BORDER LINE ─────────────────────── -->
+  <rect x="55" y="194" width="790" height="1.2" fill="url(#border-g)" opacity="0.8"/>
+
+  <!-- ── CORNER BRACKETS ────────────────────────── -->
+  <!-- TL -->
+  <path d="M14,14 L14,48 M14,14 L48,14" stroke="#00e5ff" stroke-width="2.5" fill="none" filter="url(#glow-sm)"/>
+  <!-- TR -->
+  <path d="M886,14 L886,48 M886,14 L852,14" stroke="#00e5ff" stroke-width="2.5" fill="none" filter="url(#glow-sm)"/>
+  <!-- BL -->
+  <path d="M14,196 L14,162 M14,196 L48,196" stroke="#ff6b9d" stroke-width="2.5" fill="none" filter="url(#glow-sm)"/>
+  <!-- BR -->
+  <path d="M886,196 L886,162 M886,196 L852,196" stroke="#ff6b9d" stroke-width="2.5" fill="none" filter="url(#glow-sm)"/>
+
+  <!-- ── LEFT STATUS INDICATOR ──────────────────── -->
+  <circle cx="60" cy="105" r="5.5" fill="#00ff88" filter="url(#glow-sm)">
+    <animate attributeName="opacity" values="1;0.15;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="109" font-family="'Courier New',Courier,monospace" font-size="11"
+        fill="#00ff88" letter-spacing="0.5">SYS: ONLINE</text>
+
+  <!-- ── RIGHT STATUS INDICATOR ─────────────────── -->
+  <circle cx="836" cy="105" r="5.5" fill="#ff6b9d" filter="url(#glow-sm)">
+    <animate attributeName="opacity" values="1;0.15;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="848" y="109" font-family="'Courier New',Courier,monospace" font-size="11"
+        fill="#ff6b9d" letter-spacing="0.5">NIK: ACTIVE</text>
+
+  <!-- ── MAIN GLOW HALO (title shadow) ─────────── -->
+  <text x="450" y="112"
+        font-family="'Courier New',Courier,monospace"
+        font-size="50" font-weight="bold" text-anchor="middle"
+        fill="#6d28d9" opacity="0.22" filter="url(#glow-lg)">
+    NIKHIL SOMVANSHI
+  </text>
+
+  <!-- ── MAIN TITLE (gradient) ─────────────────── -->
+  <text x="450" y="112"
+        font-family="'Courier New',Courier,monospace"
+        font-size="50" font-weight="bold" text-anchor="middle"
+        fill="url(#title-g)" filter="url(#glow-sm)">
+    NIKHIL SOMVANSHI
+  </text>
+
+  <!-- ── SUBTITLE ───────────────────────────────── -->
+  <text x="450" y="150"
+        font-family="'Courier New',Courier,monospace"
+        font-size="13" text-anchor="middle"
+        fill="#d4b4fe" letter-spacing="3.5">
+    AI ENGINEER  ·  CYBERSECURITY  ·  NIK AI ASSISTANT
+  </text>
+
+  <!-- ── BOTTOM MINI LABEL ──────────────────────── -->
+  <text x="450" y="182"
+        font-family="'Courier New',Courier,monospace"
+        font-size="9.5" text-anchor="middle"
+        fill="#443365" letter-spacing="2">
+    NIK AI CORE v5.0  ·  VADODARA, INDIA  ·  PROMPT ENGINEERING
+  </text>
+
+  <!-- ── SCANNING LINE ANIMATION ────────────────── -->
+  <rect x="0" y="0" width="900" height="2.5" fill="#a78bfa" opacity="0">
+    <animateTransform attributeName="transform" type="translate"
+                      from="0,-3" to="0,213" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.55;0.55;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ── SIDE DECORATIVE DASHES ─────────────────── -->
+  <g stroke="#00e5ff" stroke-width="1" opacity="0.35">
+    <line x1="14" y1="60"  x2="14" y2="70"/>
+    <line x1="14" y1="80"  x2="14" y2="90"/>
+    <line x1="14" y1="100" x2="14" y2="110"/>
+    <line x1="14" y1="120" x2="14" y2="130"/>
+    <line x1="14" y1="140" x2="14" y2="150"/>
+  </g>
+  <g stroke="#ff6b9d" stroke-width="1" opacity="0.35">
+    <line x1="886" y1="60"  x2="886" y2="70"/>
+    <line x1="886" y1="80"  x2="886" y2="90"/>
+    <line x1="886" y1="100" x2="886" y2="110"/>
+    <line x1="886" y1="120" x2="886" y2="130"/>
+    <line x1="886" y1="140" x2="886" y2="150"/>
+  </g>
+</svg>

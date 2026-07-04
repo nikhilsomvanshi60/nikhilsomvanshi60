@@ -1,190 +1,249 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║     NIK AI CORE ✦ PROFILE ENGINE v5.0 ✦ PERFECTED      ║ -->
+<!-- ║       NIK AI CORE  ✦  PROFILE ENGINE v6.0              ║ -->
+<!-- ║         Custom HUD  ·  Dashboard Layout                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░░░░░░░░░░░░░  HERO HEADER  ░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=NIKHIL%20SOMVANSHI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Analyst%20%E2%80%A2%20NIK%20AI%20ASSISTANT%20✦&descSize=16&descColor=d4b4fe&descAlignY=62&stroke=a78bfa&strokeWidth=2" />
+<!-- ░░░░░░░░░  CUSTOM ANIMATED SVG HUD BANNER  ░░░░░░░░░ -->
+<div align="center">
+<img src="./assets/nik-hud.svg" width="100%" alt="NIK AI HUD Banner"/>
+</div>
 
-<!-- ░░░░░░░░░░░░░░░  ANIMATED IDENTITY  ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░  IDENTITY TYPING  ░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=%F0%9F%94%AE+NIK+AI+ASSISTANT+%3A%3A+SYSTEM+ONLINE;%E2%9C%A6+Where+Intelligence+Meets+Imagination...;%F0%9F%9B%A1%EF%B8%8F+Cyber+Guardian+%7C+Securing+Digital+Realms;%F0%9F%A4%96+Autonomous+AI+Agent+Architect;%F0%9F%8C%99+From+Vadodara%2C+India+%E2%80%94+To+the+Digital+Frontier" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2800&pause=900&color=FF6B9D&center=true&vCenter=true&width=820&lines=%F0%9F%94%AE+NIK+AI+ASSISTANT+%3A%3A+ALL+SYSTEMS+NOMINAL;%E2%9C%A6+AI+Engineer+who+writes+code+like+poetry...;%F0%9F%9B%A1%EF%B8%8F+Cyber+Guardian+%7C+Ethical+Hacker+%7C+Security+Analyst;%F0%9F%A4%96+Building+Autonomous+AI+Agents+with+LLMs;%F0%9F%8C%99+From+Vadodara%2C+India+%E2%80%94+Coding+for+the+World" alt="Identity" />
+
+<br/>
+
+<!-- BADGE ROW -->
+<a href="https://github.com/nikhilsomvanshi60">
+<img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
+</a>
+&ensp;
+<img src="https://img.shields.io/badge/NIK_AI-v6.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
+&ensp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%E2%9A%A1-00ff88?style=for-the-badge"/>
+&ensp;
+<img src="https://img.shields.io/github/followers/nikhilsomvanshi60?style=for-the-badge&color=a78bfa&label=FOLLOWERS"/>
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░  LIVE SYSTEM BADGES  ░░░░░░░░░░░░░░░ -->
-<div align="center">
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=VISITORS)](https://github.com/nikhilsomvanshi60)
-&ensp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-00ff88?style=for-the-badge&logo=statuspage&logoColor=white)
-&ensp;
-![NIK AI](https://img.shields.io/badge/NIK_AI-v5.0_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
-&ensp;
-![Open](https://img.shields.io/badge/OPEN_TO-COLLABORATE-a78bfa?style=for-the-badge&logo=handshake&logoColor=white)
+---
 
-</div>
+<!-- ░░░░░░░░░  WHO AM I — 2-PANEL LAYOUT  ░░░░░░░░░ -->
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░  DOSSIER + GIF  ░░░░░░░░░░░░░░░ -->
-<img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="NIK AI Coding GIF"/>
-
-<div>
-
-### `⟨ AGENT DOSSIER ⟩`
+### `◈ AGENT DOSSIER — N1K`
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  DESIGNATION  :  NIKHIL SOMVANSHI                   ║
-║  CODENAME     :  N1K  [ Neural Intelligence Kernel ] ║
-║  DIVISION     :  NIK AI TECHNOLOGY                  ║
-║  SPECIALITY   :  AI  +  Cybersecurity  +  Automation ║
-║  CITY         :  Vadodara, Gujarat, India            ║
-║  PHILOSOPHY   :  Build AI.  Secure Systems.          ║
-║                  Write Code that Tells Stories.      ║
-║  STATUS       :  ● ACTIVE   |   ◈  BUILDING         ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║  DESIGNATION : NIKHIL SOMVANSHI         ║
+║  CODENAME    : N1K                      ║
+║              : [Neural Intel Kernel]    ║
+║  DIVISION    : NIK AI TECHNOLOGY        ║
+║  ROLE        : AI Engineer + Cyber      ║
+║                Security Analyst         ║
+║  CITY        : Vadodara, Gujarat, India ║
+║  PASSION     : AI  ×  Security  ×  Art  ║
+║  PHILOSOPHY  : Build AI. Secure Systems.║
+║                Write Code. Tell Stories.║
+║  STATUS      : ● ACTIVE | ◈ BUILDING   ║
+╚══════════════════════════════════════════╝
 ```
 
-</div>
+> *"I live at the intersection of Artificial Intelligence and Cybersecurity — where every prompt is a spell and every script is a story."*
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Coding"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open_to-AI_Collaborations-FF6B9D?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/Exploring-LLMs_%26_Agents-a78bfa?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learning-Cybersecurity-00BCD4?style=flat-square&logo=hackthebox&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  NIK AI ASSISTANT CORE  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  NIK AI CORE  ░░░░░░░░░ -->
 <div align="center">
 
-## 🔮 &nbsp; NIK AI ASSISTANT &nbsp; 🔮
+## 🔮 &nbsp; NIK AI ASSISTANT — CORE INTELLIGENCE &nbsp; 🔮
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=13&duration=1800&pause=300&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E_%20BOOTING+NIK+AI+CORE+v5.0...;%3E_%20Connecting+Language+Model+Interfaces...+%5BOK%5D;%3E_%20Loading+Prompt+Architecture...+%5BOK%5D;%3E_%20Cybersecurity+Modules+Armed...+%5BOK%5D;%3E_%20Autonomous+Agent+Engine+Ready...+%5BOK%5D;%3E_%20Welcome%2C+NIKHIL.+All+systems+nominal." alt="NIK AI Boot Terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=12.5&duration=1600&pause=250&color=A78BFA&center=true&vCenter=true&width=740&lines=%3E_+BOOTING+NIK+AI+CORE+v6.0...;%3E_+Language+Model+Bridge...+[CONNECTED];%3E_+Prompt+Architecture+Engine...+[LOADED];%3E_+Cybersecurity+Modules...+[ARMED];%3E_+Autonomous+Agent+Runtime...+[READY];%3E_+Welcome+back%2C+NIKHIL.+All+systems+nominal." alt="Boot"/>
 
 </div>
 
 <br/>
 
 ```python
-# ╔══════════════════════════════════════════════════════════╗
-# ║         NIK AI ASSISTANT  ✦  Core Intelligence          ║
-# ║               Neural Intelligence Kernel v5.0            ║
-# ╚══════════════════════════════════════════════════════════╝
+# ╔══════════════════════════════════════════════════════════════╗
+# ║         NIK AI ASSISTANT  ·  Neural Intelligence Kernel     ║
+# ║         Version  :  6.0.DASHBOARD.ULTRA                     ║
+# ╚══════════════════════════════════════════════════════════════╝
 
 class NIK_AI_ASSISTANT:
-    
+
     identity = {
-        "name"      : "NIK  ⟨ Neural Intelligence Kernel ⟩",
-        "version"   : "5.0 · ROMANTIC_NOSTALGIA · ULTRA",
-        "creator"   : "Nikhil Somvanshi",
+        "full_name" : "Nikhil Somvanshi",
+        "codename"  : "N1K  —  Neural Intelligence Kernel",
+        "division"  : "NIK AI TECHNOLOGY",
+        "version"   : "6.0  ·  DASHBOARD.ULTRA",
         "origin"    : "Vadodara, Gujarat, India  🇮🇳",
-        "born"      : "From curiosity. Built with passion.",
+        "motto"     : "From curiosity to code. From code to change.",
     }
 
-    core_modules = [
-        "🔮  Prompt Architecture   — Designing spells for LLMs",
-        "🛡️  Cyber Intelligence   — Hunting threats before they hunt you",
-        "🤖  Autonomous Agents    — AI that thinks, decides, acts",
-        "📡  LLM Orchestration    — Conducting symphonies of neural networks",
-        "🌙  Night Mode           — Productivity peaks at 2AM ☕",
+    core_capabilities = {
+        "🔮  Prompt Engineering"  : "Crafting precision spells for LLMs",
+        "🛡️  Cyber Intelligence" : "Hunting threats before they hunt you",
+        "🤖  AI Agent Design"    : "Systems that think, decide, and act",
+        "📡  LLM Orchestration"  : "Conducting symphonies of neural networks",
+        "🌙  Night Mode"         : "Best ideas arrive at 2 AM  ☕",
+    }
+
+    learning_stack = [
+        "Advanced Prompt Chaining",  "RAG + Vector Databases",
+        "Autonomous Agent Loops",    "Ethical Hacking",
+        "Network Penetration",       "LLM Fine-Tuning",
     ]
 
-    philosophy = (
-        "Build AI that feels human.  "
-        "Secure systems that protect dreams.  "
-        "Write code that tells a story.  "
-    )
-
     def activate(self) -> str:
-        return "✦  NIK AI ASSISTANT — Where technology meets soul.  ✦"
+        return "✦  NIK AI — Where technology meets soul.  ✦"
+
+    def __repr__(self) -> str:
+        return f"NIK v6.0 | {self.identity['origin']} | ONLINE"
 ```
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  CYBERSECURITY  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  CYBERSECURITY  ░░░░░░░░░ -->
 <div align="center">
 
-## 🛡️ &nbsp; CYBERSECURITY ARSENAL &nbsp; 🛡️
+## 🛡️ &nbsp; CYBERSECURITY COMMAND &nbsp; 🛡️
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=2000&pause=500&color=FF4444&center=true&vCenter=true&width=720&lines=%5B+NIK+SECURITY+CORE+%5D+%E2%96%BA+Initializing+threat+scan...;%5B+NIK+SECURITY+CORE+%5D+%E2%96%BA+Network+perimeter+secured.;%5B+NIK+SECURITY+CORE+%5D+%E2%96%BA+Vulnerability+assessment+active.;%5B+NIK+SECURITY+CORE+%5D+%E2%96%BA+All+defensive+layers+ARMED." alt="Security Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=1800&pause=400&color=FF4444&center=true&vCenter=true&width=750&lines=%5BNIK+SECURITY%5D+%E2%96%BA+Threat+scan+initializing...;%5BNIK+SECURITY%5D+%E2%96%BA+Network+perimeter+secured.;%5BNIK+SECURITY%5D+%E2%96%BA+Vulnerability+assessment+complete.;%5BNIK+SECURITY%5D+%E2%96%BA+All+defensive+layers+ARMED+%E2%9C%93" alt="Security Scan"/>
 
 <br/><br/>
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-|  🔴 &nbsp; **OFFENSIVE**  |  🔵 &nbsp; **DEFENSIVE**  |  🟣 &nbsp; **INTELLIGENCE**  |
-|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![](https://img.shields.io/badge/OSINT_%26_Recon-FF6633?style=for-the-badge&logo=tor&logoColor=white) |
-| ![](https://img.shields.io/badge/Penetration_Testing-DC143C?style=for-the-badge&logo=hackaday&logoColor=white) | ![](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![](https://img.shields.io/badge/Threat_Intel-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white) |
-| ![](https://img.shields.io/badge/Web_Exploitation-FF4500?style=for-the-badge&logo=bugcrowd&logoColor=white) | ![](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white) | ![](https://img.shields.io/badge/Security_Automation-7C3AED?style=for-the-badge&logo=python&logoColor=white) |
-| ![](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black) | ![](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![](https://img.shields.io/badge/Incident_Response-E91E63?style=for-the-badge&logo=pagerduty&logoColor=white) |
+**🔴 OFFENSIVE**
 
-</div>
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/Pen_Testing-DC143C?style=for-the-badge&logo=hackaday&logoColor=white)
+![](https://img.shields.io/badge/Web_Exploitation-FF4500?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+</td>
+<td align="center" width="33%">
+
+**🔵 DEFENSIVE**
+
+![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+<td align="center" width="33%">
+
+**🟣 INTELLIGENCE**
+
+![](https://img.shields.io/badge/OSINT_%26_Recon-FF6633?style=for-the-badge&logo=tor&logoColor=white)
+![](https://img.shields.io/badge/Threat_Intel-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![](https://img.shields.io/badge/Sec_Automation-7C3AED?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Incident_Response-E91E63?style=for-the-badge&logo=pagerduty&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
 ```
- ╔══════════════════════════════════════════════════════════╗
- ║         ✦  N I K   S E C U R I T Y   M A T R I X  ✦    ║
- ╠═════════════════════════════╦════════════════════════════╣
- ║  Penetration Testing        ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%    ║
- ║  Network Security           ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%    ║
- ║  Web Application Security   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  79%    ║
- ║  OSINT & Recon              ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  86%    ║
- ║  Security Automation        ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  92%    ║
- ║  Threat Intelligence        ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%    ║
- ╚═════════════════════════════╩════════════════════════════╝
+  ╔════════════════════════════════════════════════════════════╗
+  ║          ✦   N I K   S E C U R I T Y   M A T R I X   ✦   ║
+  ╠══════════════════════════╦═════════════════════════════════╣
+  ║  Penetration Testing     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%    🔴   ║
+  ║  Network Security        ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%    🔵   ║
+  ║  Web App Security        ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  79%    🔵   ║
+  ║  OSINT & Recon           ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  86%    🟣   ║
+  ║  Security Automation     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  92%    ⚡   ║
+  ║  Threat Intelligence     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%    🟣   ║
+  ╚══════════════════════════╩═════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  AI UNIVERSE  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  AI UNIVERSE  ░░░░░░░░░ -->
 <div align="center">
 
 ## 🧠 &nbsp; AI & PROMPT ENGINEERING UNIVERSE &nbsp; 🧠
 
-</div>
+<table>
+<tr>
+<td align="center">
 
-<div align="center">
+**★ Expert**<br/>
+![](https://img.shields.io/badge/Prompt_Engineering-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
 
-![](https://img.shields.io/badge/★_Prompt_Engineering-Expert-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
-&ensp;
-![](https://img.shields.io/badge/★_LLM_Fine--tuning-Advanced-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white)
-&ensp;
-![](https://img.shields.io/badge/★_AI_Agents-Builder-00BCD4?style=for-the-badge&logo=probot&logoColor=white)
+</td>
+<td align="center">
 
-<br/><br/>
+**★ Advanced**<br/>
+![](https://img.shields.io/badge/LLM_Fine--Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white)
 
-![](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+</td>
+<td align="center">
+
+**★ Builder**<br/>
+![](https://img.shields.io/badge/AI_Agent_Design-00BCD4?style=for-the-badge&logo=probot&logoColor=white)
+
+</td>
+<td align="center">
+
+**★ Active**<br/>
+![](https://img.shields.io/badge/RAG_Systems-00897B?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 &ensp;
 ![](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 &ensp;
@@ -194,39 +253,40 @@ class NIK_AI_ASSISTANT:
 &ensp;
 ![](https://img.shields.io/badge/AutoGen-FF6D00?style=flat-square&logo=microsoft&logoColor=white)
 &ensp;
-![](https://img.shields.io/badge/RAG_Systems-00897B?style=flat-square&logo=elasticsearch&logoColor=white)
-&ensp;
 ![](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 &ensp;
-![](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
+![](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+&ensp;
+![](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  TECH ARSENAL  ░░░░░░░░░ -->
 <div align="center">
 
 ## ⚡ &nbsp; TECHNOLOGY COMMAND CENTER &nbsp; ⚡
 
-<br/>
+<table>
+<tr>
+<td align="center" width="50%">
 
 **— LANGUAGES —**
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/><br/>
+</td>
+<td align="center" width="50%">
 
 **— TOOLS & PLATFORMS —**
 
@@ -235,65 +295,61 @@ class NIK_AI_ASSISTANT:
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  GITHUB STATS DASHBOARD  ░░░░░░░░░ -->
 <div align="center">
 
-## 📊 &nbsp; SYSTEM PERFORMANCE MATRIX &nbsp; 📊
+## 📊 &nbsp; SYSTEM PERFORMANCE DASHBOARD &nbsp; 📊
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A78BFA&text_color=E2E8F0&ring_color=FF6B9D&border_radius=10" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=A78BFA&text_color=E2E8F0&ring_color=FF6B9D&border_radius=12" height="185" alt="Stats"/>
 &ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=E2E8F0&border_radius=10&langs_count=6" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=E2E8F0&border_radius=12&langs_count=6" height="185" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=A78BFA&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B9D&sideLabels=A78BFA&dates=888888&border_radius=10" width="96%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=A78BFA&fire=FF6B9D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B9D&sideLabels=A78BFA&dates=888888&border_radius=12" width="97%" alt="Streak"/>
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  TROPHIES  ░░░░░░░░░ -->
 <div align="center">
 
 ## 🏆 &nbsp; ACHIEVEMENT VAULT &nbsp; 🏆
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=dracula&no-frame=true&no-bg=true&margin-w=5&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  ACTIVITY  ░░░░░░░░░ -->
 <div align="center">
 
 ## 📡 &nbsp; LIVE ACTIVITY PULSE &nbsp; 📡
@@ -305,81 +361,92 @@ class NIK_AI_ASSISTANT:
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
+<br/>
 
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
+---
+
+<!-- ░░░░░░░░░  DEV HUMOR — UNIQUE SECTION  ░░░░░░░░░ -->
+<div align="center">
+
+## 😄 &nbsp; NIK AI HUMOR MODULE &nbsp; 😄
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  GROWTH LOG  ░░░░░░░░░░░░░░░ -->
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&textColor=%23e2e8f0&qColor=%23FF6B9D&aColor=%23A78BFA&borderColor=%230D1117&hideBorder=true" alt="Dev Joke" width="600"/>
 
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
+<br/>
+
+---
+
+<!-- ░░░░░░░░░  GROWTH LOG  ░░░░░░░░░ -->
 <div align="center">
 
-## 🌱 &nbsp; GROWTH & LEARNING MATRIX &nbsp; 🌱
+## 🌱 &nbsp; NIK GROWTH LOG &nbsp; 🌱
 
 <br/>
 
 ```
- ╔══════════════════════════════════════════════════════════╗
- ║            ✦  N I K   G R O W T H   L O G  ✦           ║
- ╠═══════════════════════════╦══════════════════════════════╣
- ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  95%  🔮  ║
- ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  84%  🤖  ║
- ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  83%  ⚡  ║
- ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚  ║
- ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️  ║
- ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠  ║
- ╚═══════════════════════════╩══════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════╗
+  ║              ✦   N I K   G R O W T H   L O G   ✦           ║
+  ╠═══════════════════════════╦══════════════════════════════════╣
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  95%  🔮     ║
+  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  84%  🤖     ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  83%  ⚡     ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  88%  📚     ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️    ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠     ║
+  ╚═══════════════════════════╩══════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  ROMANTIC SOUL QUOTE  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  PHILOSOPHY  ░░░░░░░░░ -->
 <div align="center">
 
 ## 🌙 &nbsp; THE PHILOSOPHY OF NIK &nbsp; 🌙
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=14&duration=4000&pause=1500&color=D4B4FE&center=true&vCenter=true&width=780&lines=%22I+write+code+at+midnight+when+the+world+is+quiet...%22;%22Every+function+is+a+letter%2C+every+algorithm+a+love+story.%22;%22The+best+firewall+is+knowledge.+The+best+AI%2C+curiosity.%22;%22Build+AI+that+feels+human.+Secure+futures%2C+not+just+systems.%22" alt="Philosophy Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=14&duration=4500&pause=2000&color=D4B4FE&center=true&vCenter=true&width=800&lines=%22I+write+code+at+midnight+when+the+world+is+quiet...%22;%22Every+function+is+a+letter.+Every+bug%2C+a+lesson.%22;%22The+best+firewall+is+knowledge.+The+best+AI%2C+curiosity.%22;%22Build+AI+that+feels+human.+Secure+futures%2C+not+just+systems.%22;%22One+commit+at+a+time+—+writing+tomorrow+into+existence.%22" alt="Philosophy"/>
 
 <br/><br/>
 
 > **✦** &nbsp; *"Between every line of code, there is a dream waiting to be lived.  
-> I don't just write programs — I write the future, one commit at a time."*
+> I don't just write programs — I write the future, one commit at a time."*  
 >
-> — **Nikhil Somvanshi**, Creator of NIK AI ASSISTANT
+> — **Nikhil Somvanshi** · Creator of NIK AI ASSISTANT
 
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  CONNECT  ░░░░░░░░░ -->
 <div align="center">
 
 ## 🔗 &nbsp; OPEN CHANNELS &nbsp; 🔗
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_@nikhilsomvanshi60-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsomvanshi60)
+[![GitHub](https://img.shields.io/badge/GitHub-@nikhilsomvanshi60-FF6B9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhilsomvanshi60)
 &ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Nikhil-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-somvanshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Somvanshi-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-somvanshi)
 &ensp;
-![Collab](https://img.shields.io/badge/DM_Open-Let's_Build_Together-00BCD4?style=for-the-badge&logo=telegram&logoColor=white)
+![](https://img.shields.io/badge/DM_OPEN-Let's_Build_Together-00BCD4?style=for-the-badge&logo=telegram&logoColor=white)
 
 <br/><br/>
 
@@ -388,34 +455,28 @@ class NIK_AI_ASSISTANT:
 </div>
 
 <br/>
-
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3" width="100%"/>
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  PROJECTS  ░░░░░░░░░ -->
 <div align="center">
 
-## 🚀 &nbsp; FEATURED PROJECTS &nbsp; 🚀
+## 🚀 &nbsp; FEATURED MODULES &nbsp; 🚀
 
 </div>
 
 <!-- LATEST_REPOS_START -->
-- [**Enterprise-Call-Reports**](https://github.com/nikhilsomvanshi60/Enterprise-Call-Reports) — AI-powered enterprise analytics & reporting system &nbsp;`Python` `AI`
+- [**Enterprise-Call-Reports**](https://github.com/nikhilsomvanshi60/Enterprise-Call-Reports) — AI-powered enterprise call analytics & reporting system &nbsp;`Python` `AI`
 - [**Nik-companion**](https://github.com/nikhilsomvanshi60/Nik-companion) — Personal AI companion powered by NIK AI ASSISTANT &nbsp;`LLM` `Agents`
 <!-- LATEST_REPOS_END -->
 
 <br/>
 
-<!-- ░░░░░░░░░  GRADIENT DIVIDER  ░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=3&section=header" width="100%"/>
+---
 
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░  DAILY TRANSMISSION  ░░░░░░░░░░░░░░░ -->
-
+<!-- ░░░░░░░░░  DAILY TRANSMISSION  ░░░░░░░░░ -->
 <div align="center">
 
 ## 💌 &nbsp; NIK AI DAILY TRANSMISSION &nbsp; 💌
@@ -424,27 +485,27 @@ class NIK_AI_ASSISTANT:
 
 <!-- QUOTE_START -->
 > *"The most romantic thing in technology is the moment an AI truly understands  
-> what you **meant** — not just what you said."*
+> what you **meant** — not just what you said."*  
 >
-> **✦ NIK AI ASSISTANT v5.0 ✦ &nbsp; Auto-updating every 24 hours**
-
+> **✦ NIK AI ASSISTANT v6.0 ✦ &ensp; Auto-syncing every 24h**
 <!-- QUOTE_END -->
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░ -->
+---
 
+<!-- ░░░░░░░░░  FOOTER  ░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=%E2%9C%A6+NIK+AI+CORE+v5.0+%3A%3A+END+OF+TRANSMISSION+%E2%9C%A6&fontSize=15&fontColor=d4b4fe&animation=twinkling&fontAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=%E2%9C%A6+NIK+AI+CORE+v6.0+%3A%3A+END+OF+TRANSMISSION+%E2%9C%A6&fontSize=15&fontColor=d4b4fe&animation=twinkling&fontAlignY=72"/>
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->🔄 Auto-sync every 24h · NIK AI System<!-- LAST_SYSTEM_SYNC_END -->
-&ensp;|&ensp; Crafted with &nbsp;💜&nbsp; ☕&nbsp; &amp; &nbsp;🌙 &nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
+&ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
 
 </div>
