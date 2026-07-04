@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║       NIK AI CORE  ✦  PROFILE ENGINE v6.0              ║ -->
+<!-- ║       NIK AI CORE  ✦  PROFILE ENGINE v1.0              ║ -->
 <!-- ║         Custom HUD  ·  Dashboard Layout                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
@@ -20,7 +20,7 @@
 <img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=7c3aed&label=TOTAL+VISITORS"/>
 </a>
 &ensp;
-<img src="https://img.shields.io/badge/NIK_AI-v6.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NIK_AI-v1.0_%E2%97%8F_ACTIVE-FF6B9D?style=for-the-badge&logo=openai&logoColor=white"/>
 &ensp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20%E2%9A%A1-00ff88?style=for-the-badge"/>
 &ensp;
@@ -86,7 +86,7 @@
 
 ## 🔮 &nbsp; NIK AI ASSISTANT — CORE INTELLIGENCE &nbsp; 🔮
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=18&duration=2000&pause=400&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=%3E_%20BOOTING%20NIK%20AI%20CORE%20v6.0...;%3E_%20Language%20Model%20Bridge...%20%5BCONNECTED%5D;%3E_%20Prompt%20Architecture%20Engine...%20%5BLOADED%5D;%3E_%20Cybersecurity%20Modules...%20%5BARMED%5D;%3E_%20Autonomous%20Agent%20Runtime...%20%5BREADY%5D;%3E_%20Welcome%20back%2C%20NIKHIL.%20All%20systems%20nominal." alt="NIK AI Boot Sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=18&duration=2000&pause=400&color=A78BFA&center=true&vCenter=true&width=850&height=50&lines=%3E_%20BOOTING%20NIK%20AI%20CORE%20v1.0...;%3E_%20Language%20Model%20Bridge...%20%5BCONNECTED%5D;%3E_%20Prompt%20Architecture%20Engine...%20%5BLOADED%5D;%3E_%20Cybersecurity%20Modules...%20%5BARMED%5D;%3E_%20Autonomous%20Agent%20Runtime...%20%5BREADY%5D;%3E_%20Welcome%20back%2C%20NIKHIL.%20All%20systems%20nominal." alt="NIK AI Boot Sequence"/>
 
 </div>
 
@@ -450,9 +450,9 @@ class NIK_AI_ASSISTANT:
 &ensp;
 [![Twitter/X](https://img.shields.io/badge/Twitter/X-Follow-00e5ff?style=for-the-badge&logo=x&logoColor=white)](https://x.com/XprRed90483)
 &ensp;
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KINGMANS12)
-&ensp;
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nikhil001-p?si=rWStJq8GDiC_ilSC)
+&ensp;
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KINGMANS12)
 
 <br/><br/>
 
@@ -493,7 +493,7 @@ class NIK_AI_ASSISTANT:
 > *"The most romantic thing in technology is the moment an AI truly understands  
 > what you **meant** — not just what you said."*  
 >
-> **✦ NIK AI ASSISTANT v6.0 ✦ &ensp; Auto-syncing every 24h**
+> **✦ NIK AI ASSISTANT v1.0 ✦ &ensp; Auto-syncing every 24h**
 <!-- QUOTE_END -->
 
 <br/>
@@ -507,7 +507,7 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=%E2%9C%A6+NIK+AI+CORE+v6.0+%3A%3A+END+OF+TRANSMISSION+%E2%9C%A6&fontSize=15&fontColor=d4b4fe&animation=twinkling&fontAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=%E2%9C%A6+NIK+AI+CORE+v1.0+%3A%3A+END+OF+TRANSMISSION+%E2%9C%A6&fontSize=15&fontColor=d4b4fe&animation=twinkling&fontAlignY=72"/>
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->🔄 Auto-sync every 24h · NIK AI System<!-- LAST_SYSTEM_SYNC_END -->
