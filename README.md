@@ -1,18 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=NIKHIL%20SOMVANSHI&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✦%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20NIK%20AI%20ASSISTANT%20✦&descSize=17&descColor=f8bbd0&descAlignY=64" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=NIKHIL%20SOMVANSHI&fontSize=62&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=%E2%9C%A6%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20NIK%20AI%20ASSISTANT%20%E2%9C%A6&descSize=17&descColor=f8bbd0&descAlignY=64" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&duration=3500&pause=1200&color=FF6B9D&center=true&vCenter=true&multiline=false&width=780&lines=%E2%9C%A8+Where+Intelligence+Meets+Imagination...;%F0%9F%94%AE+NIK+AI+ASSISTANT+%3A%3A+Core+System+v4.0+Active;%F0%9F%8C%99+Building+Tomorrow%27s+AI+%E2%80%A2+Securing+Today%27s+World;%F0%9F%94%B7+Prompt+Engineer+%7C+Cyber+Guardian+%7C+Tech+Dreamer;%F0%9F%8C%BA+From+Vadodara+to+the+Digital+Frontier..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=18&duration=3500&pause=1200&color=FF6B9D&center=true&vCenter=true&width=780&lines=%E2%9C%A8+Where+Intelligence+Meets+Imagination...;%F0%9F%94%AE+NIK+AI+ASSISTANT+%3A%3A+Core+System+v4.0+Active;%F0%9F%8C%99+Building+Tomorrow%27s+AI+%E2%80%A2+Securing+Today%27s+World;%F0%9F%94%B7+Prompt+Engineer+%7C+Cyber+Guardian+%7C+Tech+Dreamer;%F0%9F%8C%BA+From+Vadodara+to+the+Digital+Frontier..." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/nikhilsomvanshi60">
-<img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=blueviolet&label=✦+PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=nikhilsomvanshi60&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </a>
 &ensp;
-<img src="https://img.shields.io/badge/NIK_AI-ONLINE-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/NIK_AI-ONLINE-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
 &ensp;
-<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-a78bfa?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_TO-COLLABORATE-a78bfa?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 ## 🌙 &nbsp; Who Am I?
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqY2hxN2VucjJlOTk4NHFzY2h4dTVsZXZjNWw3cGtpOGV5cjdlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="320" src="https://camo.githubusercontent.com/4a5eaf2026be94d0e36c0e5e4fb5c30cf97ace577f7d99d19dd22e4de9daedab/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f716751556767414333506676363837715043672f67697068792e676966" alt="Coding GIF" />
 
 ```yaml
 ┌─────────────────────────────────────────┐
@@ -55,7 +55,7 @@ is a future I protect. My AI assistant **NIK** is more than code — it's a phil
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2000&pause=300&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=%3E+Booting+NIK+AI+CORE...;%3E+Loading+Language+Models...+%5BDONE%5D;%3E+Connecting+Prompt+Pipelines...+%5BDONE%5D;%3E+Security+Modules+Active...+%5BDONE%5D;%3E+NIK+AI+ASSISTANT+is+ready.+Welcome%2C+Nikhil." />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2000&pause=300&color=A78BFA&center=true&vCenter=true&width=680&lines=%3E+Booting+NIK+AI+CORE...;%3E+Loading+Language+Models...+%5BDONE%5D;%3E+Connecting+Prompt+Pipelines...+%5BDONE%5D;%3E+Security+Modules+Active...+%5BDONE%5D;%3E+NIK+AI+ASSISTANT+is+ready.+Welcome%2C+Nikhil." />
 
 </div>
 
@@ -76,11 +76,11 @@ class NIK_AI_ASSISTANT:
     born_in    = "Vadodara, Gujarat, India"
     
     superpowers = [
-        "🔮  Prompt Architect — Crafting spells for language models",
-        "🛡️  Cyber Guardian  — Protecting digital realms",
-        "🤖  Agent Builder   — Creating autonomous AI systems",
-        "📚  Eternal Student — Learning something new every single day",
-        "🌙  Night Coder     — When the stars come out, code flows",
+        "🔮  Prompt Architect  — Crafting spells for language models",
+        "🛡️  Cyber Guardian   — Protecting digital realms",
+        "🤖  Agent Builder    — Creating autonomous AI systems",
+        "📚  Eternal Student  — Learning something new every single day",
+        "🌙  Night Coder      — When the stars come out, code flows",
     ]
     
     philosophy = """
@@ -90,12 +90,12 @@ class NIK_AI_ASSISTANT:
     """
     
     def __repr__(self):
-        return f"NIK AI — Where technology meets soul. ✨"
+        return "NIK AI — Where technology meets soul. ✨"
 ```
 
 ---
 
-## 🛡️ &nbsp; Cybersecurity Command
+## 🛡️ &nbsp; Cybersecurity Arsenal
 
 <div align="center">
 
@@ -109,13 +109,25 @@ class NIK_AI_ASSISTANT:
 
 | 🔴 Offensive | 🔵 Defensive | 🟣 Intelligence |
 |:---:|:---:|:---:|
-| ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![OSINT](https://img.shields.io/badge/OSINT-FF6633?style=flat-square&logo=target&logoColor=white) |
-| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) | ![ThreatIntel](https://img.shields.io/badge/Threat_Intel-8B0000?style=flat-square&logo=virustotal&logoColor=white) |
-| ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white) | ![SecAuto](https://img.shields.io/badge/Sec_Automation-7C3AED?style=flat-square&logo=python&logoColor=white) |
+| ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![OSINT](https://img.shields.io/badge/OSINT_Recon-FF6633?style=flat-square&logo=searchengineland&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=data:image/png;base64,&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) | ![Threat Intel](https://img.shields.io/badge/Threat_Intel-8B0000?style=flat-square&logo=hackthebox&logoColor=white) |
+| ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap_Scanner-0E83CD?style=flat-square&logo=nmap&logoColor=white) | ![Sec Auto](https://img.shields.io/badge/Sec_Automation-7C3AED?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
 <br/>
+
+<div align="center">
+
+**Kali Linux** &nbsp;
+![](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![](https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ```
   ╔══════════════════════════════════════════════════╗
@@ -136,18 +148,18 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-★_Expert-FF6B9D?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Fine--tuning-★_Advanced-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-★_Builder-00BCD4?style=for-the-badge&logo=robot&logoColor=white" />
+![](https://img.shields.io/badge/Prompt_Engineering-Expert-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/LLM_Fine--tuning-Advanced-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white)
+![](https://img.shields.io/badge/AI_Agents-Builder-00BCD4?style=for-the-badge&logo=probot&logoColor=white)
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ChatGPT_API-Active-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-Active-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-Active-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoGen-Research-FF6D00?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Systems-Active-00897B?style=flat-square&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_DBs-Active-E91E63?style=flat-square&logo=pinecone&logoColor=white" />
+![](https://img.shields.io/badge/ChatGPT_API-412991?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/AutoGen-FF6D00?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/RAG_Systems-00897B?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
 
@@ -157,7 +169,16 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,linux,git,docker,github,vscode,powershell,html,css,mysql&theme=dark&perline=6" />
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -167,12 +188,12 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=a78bfa&text_color=e2e8f0&ring_color=FF6B9D" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=e2e8f0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilsomvanshi60&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=a78bfa&text_color=e2e8f0" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsomvanshi60&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=e2e8f0" width="48%" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B9D&ring=a78bfa&fire=FF6B9D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B9D&sideLabels=a78bfa&dates=888888" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsomvanshi60&theme=tokyonight&hide_border=true&background=0d1117&stroke=FF6B9D&ring=a78bfa&fire=FF6B9D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B9D&sideLabels=a78bfa&dates=888888" width="97%" alt="Streak Stats" />
 
 </div>
 
@@ -182,7 +203,7 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -192,7 +213,7 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsomvanshi60&bg_color=0d1117&color=FF6B9D&line=a78bfa&point=FF6B9D&area=true&area_color=2d1b69&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsomvanshi60&bg_color=0d1117&color=FF6B9D&line=a78bfa&point=FF6B9D&area=true&area_color=2d1b69&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -205,13 +226,13 @@ class NIK_AI_ASSISTANT:
 ```
   ╔═══════════════════════════════════════════════════════════╗
   ║             N I K   G R O W T H   L O G                  ║
-  ╠══════════════════════╦════════════════════════════════════╣
-  ║  AI Agent Systems    ║  ████████████████░░  82%  🤖       ║
-  ║  Cybersecurity       ║  ██████████████░░░░  74%  🛡️       ║
-  ║  Prompt Engineering  ║  ██████████████████  95%  🔮       ║
-  ║  New Skills Daily    ║  █████████████████░  88%  📚       ║
-  ║  System Automation   ║  ████████████████░░  83%  ⚡       ║
-  ╚══════════════════════╩════════════════════════════════════╝
+  ╠══════════════════════════╦════════════════════════════════╣
+  ║  AI Agent Systems        ║  ████████████████░░  82%  🤖  ║
+  ║  Cybersecurity           ║  ██████████████░░░░  74%  🛡️  ║
+  ║  Prompt Engineering      ║  ██████████████████  95%  🔮  ║
+  ║  New Skills Daily        ║  █████████████████░  88%  📚  ║
+  ║  System Automation       ║  ████████████████░░  83%  ⚡  ║
+  ╚══════════════════════════╩════════════════════════════════╝
 ```
 
 </div>
@@ -241,7 +262,7 @@ class NIK_AI_ASSISTANT:
 &ensp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-somvanshi)
 &ensp;
-![Collab](https://img.shields.io/badge/Open_For-Collaboration-00BCD4?style=for-the-badge&logo=handshake&logoColor=white)
+![](https://img.shields.io/badge/Open_For-Collaboration-00BCD4?style=for-the-badge&logo=github&logoColor=white)
 
 <br/><br/>
 
@@ -272,11 +293,7 @@ class NIK_AI_ASSISTANT:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=✦+NIK+AI+CORE+%3A%3A+END+OF+TRANSMISSION+✦&fontSize=16&fontColor=f8bbd0&animation=twinkling&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=%E2%9C%A6+NIK+AI+CORE+%3A%3A+END+OF+TRANSMISSION+%E2%9C%A6&fontSize=16&fontColor=f8bbd0&animation=twinkling&fontAlignY=70" />
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->Auto-syncing every 24h via NIK AI System<!-- LAST_SYSTEM_SYNC_END -->
