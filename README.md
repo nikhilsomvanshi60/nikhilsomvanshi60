@@ -339,7 +339,60 @@ class NIK_AI_ASSISTANT:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilsomvanshi60&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" alt="GitHub Trophies"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🚀-EARLY_ADOPTER-FF6B9D?style=for-the-badge)
+<br/><sub><b>Joined the AI Revolution Early</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🤖-AI_ARCHITECT-A78BFA?style=for-the-badge)
+<br/><sub><b>Built Autonomous AI Agents</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🛡️-CYBER_GUARDIAN-00BCD4?style=for-the-badge)
+<br/><sub><b>Ethical Hacker & Defender</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🔮-PROMPT_WIZARD-7C3AED?style=for-the-badge)
+<br/><sub><b>Expert Prompt Engineer</b></sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🌙-NIGHT_CODER-1a0a2e?style=for-the-badge)
+<br/><sub><b>Codes Best at 2 AM ☕</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/📡-LLM_CONDUCTOR-FF6B9D?style=for-the-badge)
+<br/><sub><b>Orchestrates Neural Networks</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/⚡-AUTOMATION_KING-FFD700?style=for-the-badge)
+<br/><sub><b>Automates Everything</b></sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/🇮🇳-INDIA_BUILDER-FF9933?style=for-the-badge)
+<br/><sub><b>Vadodara → The World</b></sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
