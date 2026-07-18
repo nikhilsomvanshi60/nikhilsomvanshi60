@@ -459,12 +459,12 @@ console.log("          a single commit and a lot of chai ☕");
   ╔════════════════════════════════════════════════════════════════════════╗
   ║              ✦   N I K   G R O W T H   L O G   ✦                      ║
   ╠═══════════════════════════╦════════════════════════════════════════════╣
-  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  97%  🔮                  ║
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  94%  🔮                  ║
   ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%  ⚡                  ║
   ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  90%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  74%  🛡️                  ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  78%  🧠                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  73%  🛡️                  ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  79%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 <!-- NIK_GROWTH_LOG_END -->
@@ -559,13 +559,11 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"The six stages of debugging:
-1. That can't happen.
-2. That doesn't happen on my machine.
-3. That shouldn't happen.
-4. Why does that happen?
-5. Oh, I see.
-6. How did that ever work?"*
+> *"Four engineers get into a car. The car won't start.
+The Mechanical engineer says "It's a broken starter".
+The Electrical engineer says "Dead battery".
+The Chemical engineer says "Impurities in the gasoline".
+The IT engineer says "Hey guys, I have an idea: How about we all get out of the car and get back in"."*
 <!-- QUOTE_END -->
 
 <br/>
@@ -583,7 +581,7 @@ console.log("          a single commit and a lot of chai ☕");
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Fri, 17 Jul 2026 02:07:04 GMT_
+_Sat, 18 Jul 2026 01:56:05 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
