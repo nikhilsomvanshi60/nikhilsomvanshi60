@@ -459,11 +459,11 @@ console.log("          a single commit and a lot of chai ☕");
   ╔════════════════════════════════════════════════════════════════════════╗
   ║              ✦   N I K   G R O W T H   L O G   ✦                      ║
   ╠═══════════════════════════╦════════════════════════════════════════════╣
-  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  98%  🔮                  ║
-  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  ⚡                  ║
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  97%  🔮                  ║
+  ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  83%  🤖                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
   ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  90%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  71%  🛡️                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  73%  🛡️                  ║
   ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
@@ -559,11 +559,13 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"Two C strings walk into a bar.
-The bartender asks "What can I get ya?"
-The first string says "I'll have a gin and tonic."
-The second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"
-The first string apologizes, "You'll have to excuse my friend, he's not null-terminated.""*
+> *"The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?"*
 <!-- QUOTE_END -->
 
 <br/>
@@ -581,7 +583,7 @@ The first string apologizes, "You'll have to excuse my friend, he's not null-ter
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Tue, 25 Aug 2026 00:55:40 GMT_
+_Wed, 26 Aug 2026 00:56:40 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
