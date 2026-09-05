@@ -461,10 +461,10 @@ console.log("          a single commit and a lot of chai ☕");
   ╠═══════════════════════════╦════════════════════════════════════════════╣
   ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  96%  🔮                  ║
   ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  ⚡                  ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  90%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  72%  🛡️                  ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  🧠                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  ⚡                  ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  89%  📚                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  71%  🛡️                  ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 <!-- NIK_GROWTH_LOG_END -->
@@ -559,10 +559,13 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"Eight bytes walk into a bar.
-The bartender asks, "Can I get you anything?"
-"Yeah," reply the bytes.
-"Make us a double.""*
+> *"The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?"*
 <!-- QUOTE_END -->
 
 <br/>
@@ -580,7 +583,7 @@ The bartender asks, "Can I get you anything?"
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Fri, 04 Sep 2026 02:29:02 GMT_
+_Sat, 05 Sep 2026 02:30:18 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
