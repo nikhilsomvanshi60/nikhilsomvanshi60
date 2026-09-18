@@ -461,9 +461,9 @@ console.log("          a single commit and a lot of chai ☕");
   ╠═══════════════════════════╦════════════════════════════════════════════╣
   ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  98%  🔮                  ║
   ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  90%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  71%  🛡️                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  ⚡                  ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  89%  📚                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  72%  🛡️                  ║
   ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
@@ -559,7 +559,7 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."*
+> *"Your mama's so FAT she can't save files bigger than 4GB."*
 <!-- QUOTE_END -->
 
 <br/>
@@ -577,7 +577,7 @@ console.log("          a single commit and a lot of chai ☕");
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Thu, 17 Sep 2026 02:57:27 GMT_
+_Fri, 18 Sep 2026 02:44:20 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
