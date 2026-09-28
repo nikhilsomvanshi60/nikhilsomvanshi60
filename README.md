@@ -459,12 +459,12 @@ console.log("          a single commit and a lot of chai ☕");
   ╔════════════════════════════════════════════════════════════════════════╗
   ║              ✦   N I K   G R O W T H   L O G   ✦                      ║
   ╠═══════════════════════════╦════════════════════════════════════════════╣
-  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  98%  🔮                  ║
+  ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  97%  🔮                  ║
   ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  85%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  ⚡                  ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  91%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  72%  🛡️                  ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  🧠                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  90%  📚                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  71%  🛡️                  ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  80%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 <!-- NIK_GROWTH_LOG_END -->
@@ -559,11 +559,13 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."*
+> *"The six stages of debugging:
+1. That can't happen.
+2. That doesn't happen on my machine.
+3. That shouldn't happen.
+4. Why does that happen?
+5. Oh, I see.
+6. How did that ever work?"*
 <!-- QUOTE_END -->
 
 <br/>
@@ -581,7 +583,7 @@ Knock knock."*
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Sun, 27 Sep 2026 03:09:38 GMT_
+_Mon, 28 Sep 2026 03:06:11 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
