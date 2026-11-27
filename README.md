@@ -461,10 +461,10 @@ console.log("          a single commit and a lot of chai ☕");
   ╠═══════════════════════════╦════════════════════════════════════════════╣
   ║  Prompt Engineering       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  96%  🔮                  ║
   ║  AI Agent Development     ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  84%  🤖                  ║
-  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  ⚡                  ║
-  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  89%  📚                  ║
-  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  72%  🛡️                  ║
-  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  🧠                  ║
+  ║  Security Automation      ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  81%  ⚡                  ║
+  ║  New Skills — Daily       ║  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  91%  📚                  ║
+  ║  Cybersecurity Research   ║  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  73%  🛡️                  ║
+  ║  LLM Fine-Tuning          ║  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  82%  🧠                  ║
   ╚═══════════════════════════╩════════════════════════════════════════════╝
 ```
 <!-- NIK_GROWTH_LOG_END -->
@@ -559,11 +559,10 @@ console.log("          a single commit and a lot of chai ☕");
 </div>
 
 <!-- QUOTE_START -->
-> *"Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock."*
+> *"A byte walks into a bar looking miserable.
+The bartender asks it: "What's wrong buddy?"
+"Parity error." it replies. 
+"Ah that makes sense, I thought you looked a bit off.""*
 <!-- QUOTE_END -->
 
 <br/>
@@ -581,7 +580,7 @@ Knock knock."*
 
 <sub>
 <!-- LAST_SYSTEM_SYNC_START -->
-_Thu, 26 Nov 2026 06:25:51 GMT_
+_Fri, 27 Nov 2026 06:15:47 GMT_
 <!-- LAST_SYSTEM_SYNC_END -->
 &ensp;|&ensp; Crafted with &nbsp;💜&nbsp;☕&nbsp;&amp;&nbsp;🌙&nbsp; by &nbsp;<strong>Nikhil Somvanshi</strong>
 </sub>
